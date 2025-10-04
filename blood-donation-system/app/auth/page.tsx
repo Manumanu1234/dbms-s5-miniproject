@@ -31,7 +31,7 @@ export default function AuthPage() {
             <Heart className="h-6 w-6 text-red-500" />
           </div>
           <div>
-            <h1 className="text-3xl font-bold text-gray-900">BloodConnect swathi toch</h1>
+            <h1 className="text-3xl font-bold text-gray-900">BloodConnect swathi tochs toch</h1>
             <p className="text-gray-600 mt-2">Connecting donors, saving lives</p>
           </div>
         </div>
